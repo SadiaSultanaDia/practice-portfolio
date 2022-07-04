@@ -1,0 +1,73 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0;
+    margin-right: 0;
+
+}
+h1{
+    font-size: 40px;
+}
+.color-change{
+    color: rgb(219, 52, 22);
+}
+.form{
+    display: flex;
+    margin: 80px;
+}
+.web{
+    width: 50%;
+    padding: 5%;
+}
+.web img{
+    width: 100%;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red,tomato);
+    padding: 10px 40px;
+    border-radius: 5%;
+    color: black;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/istockphoto-1220573371-170667a.jpg);
+    background-repeat: no-repeat;
+    border-left: 10px solid yellow;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 5%;
+}
+
+.p{
+    color: orange;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border: 10%;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 0;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#full-stack-devoloper{
+    border-left: 7px solid tomato;
+    border-radius: 5px;
+}
+#baby-web-devoloper{
+    border-left: 7px solid blue;
+    border-radius: 5px;
+}
+.write{
+    text-align: center;
+}
